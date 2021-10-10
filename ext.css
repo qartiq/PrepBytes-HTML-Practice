@@ -1,0 +1,15 @@
+label{
+    /* color: yellow !important; */
+}
+#password{
+    color: darkslategrey;
+}
+#checkbox{
+    color: blueviolet !important;
+}
+.redcolor{
+    color: red;
+}
+.fontType{
+    font-size: 20px;
+}
